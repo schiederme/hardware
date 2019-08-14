@@ -1,4 +1,4 @@
-Der a1.entry ist ein Server auf Basis eines AMD Epyc 7401P. Er wird zur Virtualisierung eingesetzt.
+Der Hypervisor ist ein Server auf Basis eines AMD Epyc 7401P. Er wird zur Virtualisierung eingesetzt.
 
 ## Liste
 - [Barebone](https://www.mindfactory.de/product_info.php/Gigabyte-Barebone-R271-Z31_1232346.html) 1.718,03€
